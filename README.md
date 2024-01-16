@@ -5,6 +5,8 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/49/71/78/497178a0252cab23a159a512abf161b3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gynodevir&label=Profile%20views&color=0e75b6&style=flat" alt="gynodevir" /> </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gynodevir&label=Profile%20views&color=0e75b6&style=flat" alt="gynodevir" /> </p>
+
 - 🔭 I’m currently working on [Weather App](https://github.com/gynodevir/weatherreport)
 
 - 🌱 I’m currently learning **React**
@@ -16,6 +18,8 @@
 - 📫 How to reach me **2000030374cse@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1THjNz6V676p8RLC7G7kwFXX3u4k8TZEF/view?usp=sharing](https://drive.google.com/file/d/1THjNz6V676p8RLC7G7kwFXX3u4k8TZEF/view?usp=sharing)
+
+- ⚡ About Me **https://gynodevir.github.io/portfolio/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,28 +34,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gynodevir&show_icons=true&locale=en&layout=compact" alt="gynodevir" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gynodevir&show_icons=true&locale=en" alt="gynodevir" /></p>
-
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
