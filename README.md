@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1THjNz6V676p8RLC7G7kwFXX3u4k8TZEF/view?usp=sharing](https://drive.google.com/file/d/1THjNz6V676p8RLC7G7kwFXX3u4k8TZEF/view?usp=sharing)
 
-- ⚡ About Me **https://gynodevir.github.io/portfolio/**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
