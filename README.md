@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://gynodevir.github.io/portfolio/](https://gynodevir.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://gynodevir.github.io/portfolio/](https://gynodevir.github.io/portfolio2/)
 
 - 💬 Ask me about **HTML,CSS ,Javascript and Django**
 
