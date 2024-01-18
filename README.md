@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/49/71/78/497178a0252cab23a159a512abf161b3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gynodevir&label=Profile%20views&color=0e75b6&style=flat" alt="gynodevir" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gynodevir&label=Profile%20views&color=0e75b6&style=flat" alt="gynodevir" /> </p>
+
 
 - 🔭 I’m currently working on [Weather App](https://github.com/gynodevir/weatherreport)
 
