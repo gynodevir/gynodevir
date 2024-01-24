@@ -7,13 +7,13 @@
 
 
 
-- 🔭 I’m currently working on [Weather App](https://github.com/gynodevir/weatherreport)
+- 🔭 I’m currently working on  on a project that's so advanced, even my keyboard is struggling to keep up.
 
 - 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://gynodevir.github.io/portfolio/](https://gynodevir.github.io/portfolio2/)
 
-- 💬 Ask me about **HTML,CSS ,Javascript and Django**
+- 💬 Ask me about **the ongoing debate between my computer and me on whether 'semicolon' is a real relationship status.**
 
 - 📫 How to reach me **2000030374cse@gmail.com**
 
