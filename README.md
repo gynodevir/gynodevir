@@ -1,7 +1,7 @@
 
 [![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm J.Prasanth</h1>
-<h3 align="center">I'm a 21-year-old developer based in India and I'm passionate about crafting experience in Full Stack developer</h3>
+<h3 align="center">I'm a 23-year-old developer based in India and I'm passionate about crafting experience in Full Stack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/49/71/78/497178a0252cab23a159a512abf161b3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gynodevir&label=Profile%20views&color=0e75b6&style=flat" alt="gynodevir" /> </p>
 
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **the ongoing debate between my computer and me on whether 'semicolon' is a real relationship status.**
 
-- 📫 How to reach me **2000030374cse@gmail.com**
+- 📫 How to reach me **jprasanth7989@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1THjNz6V676p8RLC7G7kwFXX3u4k8TZEF/view?usp=sharing](https://drive.google.com/file/d/1THjNz6V676p8RLC7G7kwFXX3u4k8TZEF/view?usp=sharing)
 
